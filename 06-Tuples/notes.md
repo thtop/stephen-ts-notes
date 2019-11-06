@@ -2,4 +2,4 @@
 
 ## Tuple
 
-- Array-like structure where each element represents some property of a record
+- **Array** -like structure where each element represents some property of a record
