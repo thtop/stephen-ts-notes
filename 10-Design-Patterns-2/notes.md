@@ -30,3 +30,12 @@
     "start": "concurrently npm:start:*"
  }
 ```
+
+## Type Guards
+- Norrow type of a value to a primitive type
+  - number
+  - string
+  - boolean
+  - symbol
+- Narrow down every other type of value
+  - Every other value that is created with a constructor function
