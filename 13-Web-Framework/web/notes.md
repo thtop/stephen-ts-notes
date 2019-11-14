@@ -42,3 +42,16 @@
 | POST   | /posts     | Create a new post           |
 | PUT    | /posts/:id | Update a post               |
 | DELETE | /posts/:id | Delete a post               |
+
+## Options for Adapting Sync
+- Serialize: Convert data from an object into some save-able format (json)
+- Deserialize: Put data on an object using some previously saved data (json)
+
+
+## Optional Properties
+- `tsc --init`
+- and delete it!
+
+## Two important rules
+1. In TypeScript, string can be types
+2. In JS (and therefore TS), all object keys are strings
