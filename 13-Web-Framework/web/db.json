@@ -6,24 +6,29 @@
       "age": 0
     },
     {
-      "name": "new record",
-      "age": 0,
+      "name": "Buill",
+      "age": 44,
       "id": 2
     },
     {
-      "name": "new record",
-      "age": 0,
+      "name": "Lexa",
+      "age": 22,
       "id": 3
     },
     {
-      "name": "new record",
-      "age": 0,
+      "name": "Clarke",
+      "age": 18,
       "id": 4
     },
     {
-      "name": "new record",
-      "age": 0,
+      "name": "Raven",
+      "age": 16,
       "id": 5
+    },
+    {
+      "name": "NAME",
+      "age": 20,
+      "id": 6
     }
   ]
 }
